@@ -27,6 +27,33 @@ Apply disaster classification logic
 Generate annotated image
 Display disaster type and survivor count
 
+# 📁 Project Structure
+DisasterSearchAgent/
+│
+├── main.py
+├── requirements.txt
+├── README.md
+│
+├── models/
+│   ├── yolov8n.pt
+│
+├── data/
+│   ├── test_images/
+│   │   ├── flood1.jpg
+│   │   ├── fire1.jpg
+│   │   └── ...
+│
+├── outputs/
+│   ├── output.jpg
+│
+├── src/
+│   ├── detector.py
+│   ├── utils.py
+│   ├── config.py
+│
+└── logs/
+    └── app.log
+
 # 📊 Sample Output
 Input: Flood disaster image
 Output:
