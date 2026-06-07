@@ -1,10 +1,10 @@
 # Disaster-Search-Agent
 An AI-powered Disaster Search Agent that detects survivors and identifies disaster types from disaster scene images using YOLOv8 object detection and computer vision techniques.
 
-📌 Project Overview
+#📌 Project Overview
 Natural disasters such as floods, earthquakes, and fires make rescue operations difficult and time-consuming. This project uses Artificial Intelligence to automatically detect survivors and analyze disaster scenarios from images, helping rescue teams make faster and more informed decisions.
 
-🎯 Features
+#🎯 Features
 Detects survivors in disaster images
 Identifies disaster type (Flood, Fire, etc.)
 Uses YOLOv8 for real-time object detection
