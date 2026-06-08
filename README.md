@@ -28,6 +28,7 @@ Generate annotated image
 Display disaster type and survivor count
 
 # 📁 Project Structure
+```text
 DISASTER_SEARCH_AGENT/
 │
 │
@@ -46,6 +47,7 @@ DISASTER_SEARCH_AGENT/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 # 📊 Sample Output
 Input: Flood disaster image
